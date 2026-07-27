@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="bpaas-design-system" content="brutalist-avantgarde">
+    <meta name="bpaas-design-theme" content="kr-neon-void">
+    <title>인터넷 회선 비교: 메모 | 네트워크 데이터의 본질적 기준</title>
+    <meta name="description" content="인터넷 회선 비교의 본질은 속도 수치가 아닙니다. 데이터 병목을 피하고 실제 체감 속도를 결정짓는 기술적 변수들을 분석합니다.">
+    <meta name="keywords" content="인터넷 회선 비교, 통신 품질 분석, 체감 속도, 네트워크 지연, 회선 안정성">
+    <link rel="canonical" href="https://column.hikari-fiber.store/notes.html">
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "TechArticle",
+      "headline": "인터넷 회선 비교: 핵심 메모",
+      "description": "광고성 수치에 가려진 인터넷 회선의 실질적 성능 지표 정리."
+    }
+    </script>
+    <style>
+        :root { --bg-color: #0a0a0a; --text-color: #00ff41; --accent-color: #ff00ff; }
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+        body { background-color: var(--bg-color); color: var(--text-color); font-family: 'Courier New', monospace; line-height: 1.6; }
+        header { border-bottom: 2px solid var(--text-color); padding: 2rem; }
+        h1 { font-size: 2.5rem; text-transform: uppercase; }
+        nav { padding: 1rem; border-bottom: 1px solid #333; }
+        nav a { color: var(--accent-color); margin-right: 15px; text-decoration: none; font-weight: bold; }
+        .n-top-kzjk { padding: 2rem; border: 1px solid var(--text-color); margin: 20px; }
+        .k-main-fx2m-text { padding: 2rem; }
+        .t-img-aahj { width: 100%; height: 200px; background: #222; margin: 20px 0; display: flex; align-items: center; justify-content: center; }
+        footer { padding: 2rem; border-top: 2px solid var(--text-color); font-size: 0.8rem; }
+        @media (max-width: 768px) { h1 { font-size: 1.5rem; } }
+    </style>
+  <meta property="og:url" content="https://column.hikari-fiber.store/notes.html">
+</head>
+<body>
+    <header>
+        <h1>인터넷 회선 비교<br>메모: 기준과 함정</h1>
+        <nav>
+            <a href="/">홈</a>
+            <a href="/memo">메모</a>
+            <a href="/analysis">분석</a>
+        </nav>
+    </header>
+
+    <main class="k-main-fx2m-text">
+        <section class="n-top-kzjk">
+            <h2>대역폭(Bandwidth)은 허상이다</h2>
+            <p>1Gbps라는 숫자는 이론적 최대치일 뿐이다. 실제 데이터 전송의 핵심은 '지연 시간(Latency)'과 '패킷 손실률(Packet Loss)'이다. 대역폭이 넓어도 지연 시간이 높으면 데이터 흐름은 끊긴다.</p>
+        </section>
+
+        <div class="t-img-aahj">
+            [데이터 병목 현상 시각화: 지연 시간의 점유율]
+        </div>
+
+        <section>
+            <h2>체크리스트: 회선 선택의 기술적 변수</h2>
+            <ul>
+                <li><strong>Ping(ms):</strong> 10ms 이하를 유지하는지 확인하라. 30ms를 넘기는 순간 실시간 데이터 처리는 신뢰할 수 없다.</li>
+                <li><strong>안정성(Jitter):</strong> 지연 시간의 변동폭이 작을수록 좋다. 균일하지 않은 속도는 순간적인 병목을 유발한다.</li>
+                <li><strong>망 구축 방식:</strong> FTTH(광케이블 직접 연결)가 HFC(동축케이블 혼용)보다 월등하다. 물리적 매체의 물리적 한계를 인지하라.</li>
+            </ul>
+        </section>
+    </main>
+
+    <footer class="x-foot-yw80">
+        <p>© 2024 정보 분석 블로그. 모든 데이터는 이론적 네트워크 환경을 기준으로 함.</p>
+    </footer>
+</body>
+</html>
