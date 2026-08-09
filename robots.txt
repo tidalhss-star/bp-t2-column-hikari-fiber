@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://column.hikari-fiber.store/sitemap.xml
+Sitemap: https://column.hikari-fiber.store/sitemap-pages.xml

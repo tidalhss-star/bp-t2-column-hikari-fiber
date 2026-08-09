@@ -1,33 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://column.hikari-fiber.store/about.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://column.hikari-fiber.store/blog-2.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://column.hikari-fiber.store/blog-3.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://column.hikari-fiber.store/</loc>
-    <lastmod>2026-07-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://column.hikari-fiber.store/notes.html</loc>
-    <lastmod>2026-07-27</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
+    <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://column.hikari-fiber.store/blog-2.html</loc>
-    <lastmod>2026-07-27</lastmod>
+    <loc>https://column.hikari-fiber.store/posts/field_note-001-18ytpe0.html</loc>
     <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
+    <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://column.hikari-fiber.store/about.html</loc>
-    <lastmod>2026-07-27</lastmod>
+    <loc>https://column.hikari-fiber.store/posts/guide-005-rzxskk.html</loc>
     <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
+    <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://column.hikari-fiber.store/blog-3.html</loc>
-    <lastmod>2026-07-27</lastmod>
+    <loc>https://column.hikari-fiber.store/posts/major_compare-002-1rdh5sh.html</loc>
     <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://column.hikari-fiber.store/posts/myth-004-zrc55e.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://column.hikari-fiber.store/posts/qa-003-21fqhi.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
   </url>
 </urlset>
