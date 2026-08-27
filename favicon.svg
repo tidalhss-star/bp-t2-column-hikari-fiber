@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img">
+  <title>t2-column-hikari-fiber</title>
+  <rect width="64" height="64" rx="12" fill="hsl(115 55% 39%)"/>
+  <g transform="rotate(180 32 32)"><path d="M12 44 26 24l10 12 6-8 8 16Z" fill="hsl(190 68% 59%)"/><path d="M12 44 26 24l10 12" fill="none" stroke="hsl(115 24% 96%)" stroke-width="7" stroke-linejoin="round" stroke-linecap="round"/></g>
+</svg>
